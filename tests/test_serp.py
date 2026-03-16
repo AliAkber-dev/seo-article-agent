@@ -1,5 +1,3 @@
-import sys
-sys.path.append("./")
 from app.agents.serp_agent import run
 
 
